@@ -1,4 +1,4 @@
-# Hi, I'm Aiden Campbell 👋
+# Hi, I'm Aiden Campbell 👋 [![My Skills](https://skillicons.dev/icons?i=ts,js,go,python,html,css)](https://skillicons.dev)
 
 👨‍💻 **Software Engineer** based in Warsaw, originally from New York.  
 🔧 Strong background in building **scalable, data-driven systems**.  
